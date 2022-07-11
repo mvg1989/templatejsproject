@@ -1,0 +1,2 @@
+# templatejsproject
+Base project JS

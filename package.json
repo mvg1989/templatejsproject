@@ -1,0 +1,11 @@
+{
+  "name": "templatejsproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test":"hola"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
